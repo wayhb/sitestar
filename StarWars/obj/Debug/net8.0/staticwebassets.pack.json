@@ -29,6 +29,18 @@
       "PackagePath": "staticwebassets\\images\\banner.jpg"
     },
     {
+      "Id": "C:\\Users\\Adelya\\source\\repos\\StarWars\\StarWars\\wwwroot\\images\\darthVader.jpg",
+      "PackagePath": "staticwebassets\\images\\darthVader.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Adelya\\source\\repos\\StarWars\\StarWars\\wwwroot\\images\\emperor.jpg",
+      "PackagePath": "staticwebassets\\images\\emperor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Adelya\\source\\repos\\StarWars\\StarWars\\wwwroot\\images\\obi.jpg",
+      "PackagePath": "staticwebassets\\images\\obi.jpg"
+    },
+    {
       "Id": "C:\\Users\\Adelya\\source\\repos\\StarWars\\StarWars\\wwwroot\\images\\pic01.jpg",
       "PackagePath": "staticwebassets\\images\\pic01.jpg"
     },
@@ -71,6 +83,18 @@
     {
       "Id": "C:\\Users\\Adelya\\source\\repos\\StarWars\\StarWars\\wwwroot\\images\\pic11.jpg",
       "PackagePath": "staticwebassets\\images\\pic11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Adelya\\source\\repos\\StarWars\\StarWars\\wwwroot\\images\\princessLeia.jpg",
+      "PackagePath": "staticwebassets\\images\\princessLeia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Adelya\\source\\repos\\StarWars\\StarWars\\wwwroot\\images\\stormtrooper.jpg",
+      "PackagePath": "staticwebassets\\images\\stormtrooper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Adelya\\source\\repos\\StarWars\\StarWars\\wwwroot\\images\\yoda.jpg",
+      "PackagePath": "staticwebassets\\images\\yoda.jpg"
     },
     {
       "Id": "C:\\Users\\Adelya\\source\\repos\\StarWars\\StarWars\\wwwroot\\js\\breakpoints.min.js",

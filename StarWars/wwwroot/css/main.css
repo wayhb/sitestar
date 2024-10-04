@@ -1568,7 +1568,7 @@ select {
 textarea {
   padding: 0.75em 1em;
 }
-
+/*
 input[type=checkbox],
 input[type=radio] {
   -moz-appearance: none;
@@ -1581,7 +1581,7 @@ input[type=radio] {
   opacity: 0;
   width: 1em;
   z-index: -1;
-}
+}*/
 input[type=checkbox] + label,
 input[type=radio] + label {
   text-decoration: none;

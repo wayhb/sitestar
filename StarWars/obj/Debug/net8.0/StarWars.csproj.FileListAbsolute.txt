@@ -285,3 +285,4 @@ C:\Users\Adelya\source\repos\StarWars\StarWars\bin\Debug\net8.0\Microsoft.AspNet
 C:\Users\Adelya\source\repos\StarWars\StarWars\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Adelya\source\repos\StarWars\StarWars\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Adelya\source\repos\StarWars\StarWars\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\Adelya\source\repos\StarWars\StarWars\obj\Debug\net8.0\StarWars.sourcelink.json
