@@ -1,0 +1,35 @@
+﻿@model LoginViewModel
+<!-- Contact -->
+<section id="contact">
+	<div class="inner">
+		<section>
+			<header class="major">
+				<h2>Авторизация</h2>
+			</header>
+			<form asp-area="" asp-controller="Account" asp-action="Login" method="post" asp-route-returnUrl="@ViewBag.returnUrl">
+				<div asp-validation-summary="All"></div>
+				<div class="fields">
+					<div class="field half">
+						<label asp-for="UserName"></label>
+						<input asp-for="UserName" />
+						<span asp-validation-for="UserName"></span>
+					</div>
+					<div class="field half">
+						<label asp-for="Password"></label>
+						<input asp-for="Password" />
+						<span asp-validation-for="Password"></span>
+					</div>
+					<div class="field">
+						<label asp-for="RememberMe"></label>
+						<input asp-for="RememberMe" />
+						<span asp-validation-for="RememberMe"></span>
+					</div>
+				</div>
+				<ul class="actions">
+					<li><input type="submit" value="Войти" class="primary" /></li>
+				</ul>
+			</form>
+		</section>
+
+	</div>
+</section>

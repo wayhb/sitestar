@@ -7,13 +7,64 @@
 <body class="is-preload">
 	<div id="wrapper">
 		@await Html.PartialAsync("HeaderPartial")
-			
+		@await Html.PartialAsync("MenuBannerPartial")
 		<!-- Main -->
 		<div id="main" class="alt">
-			@RenderBody()
-			@await Html.PartialAsync("SidebarPartial")
+
+			<!-- One -->
+			<section id="one" class="tiles">
+				<article>
+					<span class="image">
+						<img src="images/darthVader.jpg" alt="" />
+					</span>
+					<header class="major">
+						<h3><a href="landing.html" class="link">Дарт Вейдер</a></h3>
+					</header>
+				</article>
+				<article>
+					<span class="image">
+						<img src="images/obi.jpg" alt="" />
+					</span>
+					<header class="major">
+						<h3><a href="landing.html" class="link">Оби-Ван Кеноби</a></h3>
+					</header>
+				</article>
+				<article>
+					<span class="image">
+						<img src="images/princessLeia.jpg" alt="" />
+					</span>
+					<header class="major">
+						<h3><a href="landing.html" class="link">Лея Органа</a></h3>
+					</header>
+				</article>
+				<article>
+					<span class="image">
+						<img src="images/stormtrooper.jpg" alt="" />
+					</span>
+					<header class="major">
+						<h3><a href="landing.html" class="link">Имперские штурмовики</a></h3>
+					</header>
+				</article>
+				<article>
+					<span class="image">
+						<img src="images/yoda.jpg" alt="" />
+					</span>
+					<header class="major">
+						<h3><a href="landing.html" class="link">Йода</a></h3>
+					</header>
+				</article>
+				<article>
+					<span class="image">
+						<img src="images/emperor.jpg" alt="" />
+					</span>
+					<header class="major">
+						<h3><a href="landing.html" class="link">Император</a></h3>
+					</header>
+				</article>
+			</section>
+
 		</div>	
-		@await Html.PartialAsync("FooterPartial")
+		@await Html.PartialAsync("ContactsFooterPartial")
 	</div>
 	@await Html.PartialAsync("ScriptsPartial")
 </body>
